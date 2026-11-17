@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-logos"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-logos component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
